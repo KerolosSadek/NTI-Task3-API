@@ -1,0 +1,53 @@
+user:{
+    name,
+    age,
+    email,
+    password,
+    MNumber,
+    address:[
+        addrType:{},
+        addDetails:{}
+    ]
+    tokens:[
+        {}
+    ]
+}
+
+admin:{
+    name,
+    age,
+    email,
+    password,
+    MNumber,
+    address:[
+        addrType:{},
+        addDetails:{}
+    ]
+    tokens:[
+        {}
+    ]
+}
+
+subAdmin:{
+    name,
+    age,
+    email,
+    password,
+    MNumber,
+    address:[
+        addrType:{},
+        addDetails:{}
+    ]
+    tokens:[
+        {}
+    ]
+}
+
+products:{
+    name,
+    title,
+    content,
+    numbers,
+    price,
+    favourites
+}
